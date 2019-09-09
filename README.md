@@ -1,1 +1,3 @@
 React Router - wrap <App /> - Switch/Routes - NavLinks with active class - AppRouter is what the main component renders. - Inside App router you have your navigation and then a decision on what "Primary Display" component to render below.
+
+* Round 2 - now have param as a route id > it's then available in my component in {this.props.match.params.topicId} > as usual, docs of React Router are not too clear, but just focus and it starts making sense
