@@ -3,7 +3,7 @@ import {AppRouter} from './approuter';
 
 function App() {
   return (
-    <div className="App">
+    <div className="page">
       <AppRouter />
     </div>
   );
